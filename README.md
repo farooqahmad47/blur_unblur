@@ -5,3 +5,6 @@ This Oracle APEX plugin initially blurs text in Interactive Reports (IR) and Cla
 Initial Blur: Text in specified report regions starts blurred.
 Mouse Move Effect: Text unblurs when the mouse moves over it, enhancing user interaction.
 Customization: Easily configurable for different report regions.
+
+
+![image](https://github.com/user-attachments/assets/5f025853-9a70-40e3-b663-aa1f717a63a5)
