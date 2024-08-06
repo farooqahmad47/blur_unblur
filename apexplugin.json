@@ -1,7 +1,7 @@
 {
     "name" : "Text Blur UN Blur",
     "version" : "1.0",
-    "description" : "This Oracle APEX plugin initially blurs text in Interactive Reports (IR) and Classic Reports (CR). The text unblurs when the mouse moves over it, providing a dynamic visual effect"
+    "description" : "This Oracle APEX plugin initially blurs text in Interactive Reports (IR) and Classic Reports (CR). The text unblurs when the mouse moves over it, providing a dynamic visual effect",
     "keywords" : ["Text","Blur UN Blur","Blur","plugin"],
     "homepage" : "https://github.com/farooqahmad47/blur_unblur",
     "bugs" : {
