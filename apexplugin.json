@@ -1,0 +1,38 @@
+{
+    "name" : "Text Blur UN Blur",
+    "version" : "1.0",
+    "description" : "This Oracle APEX plugin initially blurs text in Interactive Reports (IR) and Classic Reports (CR). The text unblurs when the mouse moves over it, providing a dynamic visual effect.
+
+Features: Initial Blur: Text in specified report regions starts blurred. Mouse Move Effect: Text unblurs when the mouse moves over it, enhancing user interaction. Customization: Easily configurable for different report regions.",
+    "keywords" : ["Text","Blur UN Blur","Blur","plugin"],
+    "homepage" : "https://github.com/farooqahmad47/blur_unblur",
+    "bugs" : {
+      "url" : "https://github.com/farooqahmad47/blur_unblur/issues",
+      "email" : "farooq.oracle47@gmail.com"
+    },
+    "license" : "MIT",
+    "commercial" : "No",
+    "author" : {
+      "name" : "Farooq Ahmad",
+      "email" : "farooq.oracle47@gmail.com",
+      "url" : "https://www.linkedin.com/in/farooqahmadoracleapex/",
+      "twitter": ""
+    },
+    "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/farooqahmad47/blur_unblur.git"
+    },
+   "oracle" : {
+      "versions" : ["19.0.0.0","21.0.0.0,"23.0.0.0"],
+      "apex" : {
+        "versions" : ["24.1","24.2"],
+        "plugin" : {
+          "internalName" : "BLUR_UN_BLUR",
+          "type" : "region",
+          "demo" : "https://apex.oracle.com/pls/apex/r/ahmad_tech/plug-in-palace/login",
+          "previewImage" : "https://github.com/farooqahmad47/blur_unblur/blob/main/BLUR_UNBLUR.png"
+        }
+      }
+    }
+  }
+  
